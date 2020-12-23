@@ -9,5 +9,6 @@ Python script takes IP address in a CSV file and iterates them in a loop to send
 The CSV file is named connections.csv and has two fields.  Site and IP. Site is not really used other than print statements in the script. IP is the more important fields.
 
 
-## Have Fun
+## Most Important
+Have fun. 
 
