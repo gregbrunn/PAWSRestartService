@@ -1,4 +1,4 @@
-# PAWS Restart Service Node Via CSV
+# PAWS Restart Service Via CSV
 
 A customer has a large amount of CUCM/ CUC/ IMP nodes that they wanted to restart in bulk. This python program was created to do that. Utilzing the PAWS API on before listed cisco products.
 
